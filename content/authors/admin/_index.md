@@ -18,24 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include population genomics, evoltionary genomics and invasion biology.
+bio: short bio here
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Population genetics and genomics
+- Bioinformatics
+- Biological invasions
+- Marine biology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in evolutionary and biodiversity sciences
+    institution: University of Montpellier
+    year: 2019
+  - course: M.Sc. in ecology, biodiversity and evolution
+    institution: École Normale Supérieure Ulm and Sorbonne Université
+    year: 2016
+  - course: B.Sc. in life sciences
+    institution: École Normale Supérieure Ulm
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
