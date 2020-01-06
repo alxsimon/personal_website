@@ -5,12 +5,364 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>A. F. Muttray</title>
+      <link>/authors/a.-f.-muttray/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-f.-muttray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Simon</title>
+      <link>/authors/a.-simon/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-simon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexis Simon</title>
+      <link>/authors/alexis-simon/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alexis-simon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carol Reinisch</title>
+      <link>/authors/carol-reinisch/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/carol-reinisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. A. V. Burioli</title>
+      <link>/authors/e.-a.-v.-burioli/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-a.-v.-burioli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Oden</title>
+      <link>/authors/e.-oden/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-oden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E.A.V. Burioli</title>
+      <link>/authors/e.a.v.-burioli/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/e.a.v.-burioli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando T. Avilés</title>
+      <link>/authors/fernando-t.-aviles/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fernando-t.-aviles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florencia Cremonte</title>
+      <link>/authors/florencia-cremonte/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/florencia-cremonte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Arriagada</title>
+      <link>/authors/g.-arriagada/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-arriagada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Bernard</title>
+      <link>/authors/i.-bernard/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-bernard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Sherry</title>
+      <link>/authors/j.-sherry/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-sherry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Charles</title>
+      <link>/authors/m.-charles/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-charles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Houssin</title>
+      <link>/authors/m.-houssin/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-houssin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Polo-Prieto</title>
+      <link>/authors/maria-polo-prieto/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-polo-prieto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marisa A. Yonemitsu</title>
+      <link>/authors/marisa-a.-yonemitsu/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marisa-a.-yonemitsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maurine Hammel</title>
+      <link>/authors/maurine-hammel/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/maurine-hammel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael J. Metzger</title>
+      <link>/authors/michael-j.-metzger/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-j.-metzger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Bierne</title>
+      <link>/authors/n.-bierne/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-bierne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Bierne</title>
+      <link>/authors/nicolas-bierne/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nicolas-bierne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolás Merino-Véliz</title>
+      <link>/authors/nicolas-merino-veliz/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nicolas-merino-veliz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuria Vásquez</title>
+      <link>/authors/nuria-vasquez/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nuria-vasquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rachael M. Giersch</title>
+      <link>/authors/rachael-m.-giersch/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rachael-m.-giersch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Trancart</title>
+      <link>/authors/s.-trancart/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-trancart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen P. Goff</title>
+      <link>/authors/stephen-p.-goff/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-p.-goff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susan A. Baldwin</title>
+      <link>/authors/susan-a.-baldwin/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/susan-a.-baldwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cathy Liautard-Haag</title>
+      <link>/authors/cathy-liautard-haag/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cathy-liautard-haag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christelle Fraïsse</title>
+      <link>/authors/christelle-fraisse/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christelle-fraisse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine Arbiol</title>
+      <link>/authors/christine-arbiol/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christine-arbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Einar Eg Nielsen</title>
+      <link>/authors/einar-eg-nielsen/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/einar-eg-nielsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frédérique Viard</title>
+      <link>/authors/frederique-viard/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/frederique-viard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henrique Queiroga</title>
+      <link>/authors/henrique-queiroga/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/henrique-queiroga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ibon Cancio</title>
+      <link>/authors/ibon-cancio/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ibon-cancio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ismaël Bernard</title>
+      <link>/authors/ismael-bernard/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ismael-bernard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Baptiste Lamy</title>
+      <link>/authors/jean-baptiste-lamy/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jean-baptiste-lamy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John J. Welch</title>
+      <link>/authors/john-j.-welch/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/john-j.-welch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joop W. P. Coolen</title>
+      <link>/authors/joop-w.-p.-coolen/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/joop-w.-p.-coolen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jérôme Couteau</title>
+      <link>/authors/jerome-couteau/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jerome-couteau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Skazina</title>
+      <link>/authors/maria-skazina/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-skazina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petr Strelkov</title>
+      <link>/authors/petr-strelkov/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/petr-strelkov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rossana Sussarellu</title>
+      <link>/authors/rossana-sussarellu/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rossana-sussarellu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stéphane Robert</title>
+      <link>/authors/stephane-robert/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/stephane-robert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tahani El Ayari</title>
+      <link>/authors/tahani-el-ayari/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tahani-el-ayari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thierry Burgeot</title>
+      <link>/authors/thierry-burgeot/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/thierry-burgeot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -19,6 +371,142 @@
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Bronwyn M. Gillanders</title>
+      <link>/authors/bronwyn-m.-gillanders/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bronwyn-m.-gillanders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charlie Huveneers</title>
+      <link>/authors/charlie-huveneers/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/charlie-huveneers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudia Junge</title>
+      <link>/authors/claudia-junge/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/claudia-junge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinton Duffy</title>
+      <link>/authors/clinton-duffy/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/clinton-duffy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corey J. A. Bradshaw</title>
+      <link>/authors/corey-j.-a.-bradshaw/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/corey-j.-a.-bradshaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geremy Cliff</title>
+      <link>/authors/geremy-cliff/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/geremy-cliff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grant Johnson</title>
+      <link>/authors/grant-johnson/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/grant-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matias Braccini</title>
+      <link>/authors/matias-braccini/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/matias-braccini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Drew</title>
+      <link>/authors/michael-drew/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-drew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Butcher</title>
+      <link>/authors/paul-butcher/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-butcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Rogers</title>
+      <link>/authors/paul-rogers/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-rogers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rory McAuley</title>
+      <link>/authors/rory-mcauley/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rory-mcauley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott C. Cutmore</title>
+      <link>/authors/scott-c.-cutmore/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/scott-c.-cutmore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen C. Donnellan</title>
+      <link>/authors/stephen-c.-donnellan/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-c.-donnellan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vic Peddemors</title>
+      <link>/authors/vic-peddemors/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/vic-peddemors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maud Duranton</title>
+      <link>/authors/maud-duranton/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/maud-duranton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florentine Riquet</title>
+      <link>/authors/florentine-riquet/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/florentine-riquet/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,12 @@
+---
+title: "Comparative Population Genomics Confirms Little Population Structure in Two Commercially Targeted Carcharhinid Sharks"
+date: 2019-02-01
+publishDate: 2020-01-06T18:21:37.532920Z
+authors: ["Claudia Junge", "Stephen C. Donnellan", "Charlie Huveneers", "Corey J. A. Bradshaw", "Alexis Simon", "Michael Drew", "Clinton Duffy", "Grant Johnson", "Geremy Cliff", "Matias Braccini", "Scott C. Cutmore", "Paul Butcher", "Rory McAuley", "Vic Peddemors", "Paul Rogers", "Bronwyn M. Gillanders"]
+publication_types: ["2"]
+abstract: "Many shark species are at risk of overexploitation due to their high economic value, slow maturation, and low recruitment compared to most teleosts. However, there is insufficient knowledge about population structure at different spatial scales necessary to optimise fisheries models. We used single-nucleotide polymorphisms (SNPs) obtained through complexityreduction genome sequencing to quantify the population structure of two highly mobile and commercially fished shark species: bronze whalers (Carcharhinus brachyurus) and dusky sharks (C. obscurus). We applied a comprehensive approach to test several population-structure hypotheses and signal consistency across methods and marker type. We found that C. obscurus was panmictic across Australia and Indonesia and across the Indian Ocean to South Africa based on neutral loci, whereas for C. brachyurus, the westernmost Australian samples appeared to be separate from the rest. The southernmost east Australian samples indicated some difference from the rest of Australia and New Zealand based on candidate loci for C. brachyurus, and potentially also C. obscurus; however, the lack of a reference genome makes the interpretation difficult. Despite similar patterns in both species, subtle and potentially important structure differences emphasise the importance of studying each target species independently rather than assuming similar patterns from closely related species with similar dispersal abilities, as well as considering different marker types in future studies. We found evidence of connectivity across the regions sampled, suggesting that the cumulative effects of regional fisheries and the potential for cross-jurisdictional fishery assessments and management should be considered for Australian, Indonesian, and New Zealand populations."
+featured: false
+publication: ""
+doi: "10.1007/s00227-018-3454-4"
+---
+
