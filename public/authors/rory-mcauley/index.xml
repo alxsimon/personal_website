@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rory McAuley | Alexis Simon</title>
-    <link>/authors/rory-mcauley/</link>
-      <atom:link href="/authors/rory-mcauley/index.xml" rel="self" type="application/rss+xml" />
+    <link>/~asimon/authors/rory-mcauley/</link>
+      <atom:link href="/~asimon/authors/rory-mcauley/index.xml" rel="self" type="application/rss+xml" />
     <description>Rory McAuley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/~asimon/images/icon_hua9382347c3b61b6200626d622986fb32_48132_512x512_fill_lanczos_center_2.png</url>
       <title>Rory McAuley</title>
-      <link>/authors/rory-mcauley/</link>
+      <link>/~asimon/authors/rory-mcauley/</link>
     </image>
     
     <item>
       <title>Comparative Population Genomics Confirms Little Population Structure in Two Commercially Targeted Carcharhinid Sharks</title>
-      <link>/publication/junge-2019/</link>
+      <link>/~asimon/publication/junge-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/junge-2019/</guid>
+      <guid>/~asimon/publication/junge-2019/</guid>
       <description></description>
     </item>
     

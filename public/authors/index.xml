@@ -2,511 +2,515 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Alexis Simon</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/~asimon/authors/</link>
+      <atom:link href="/~asimon/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/~asimon/images/icon_hua9382347c3b61b6200626d622986fb32_48132_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>/~asimon/authors/</link>
     </image>
     
     <item>
       <title>A. F. Muttray</title>
-      <link>/authors/a.-f.-muttray/</link>
+      <link>/~asimon/authors/a.-f.-muttray/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-f.-muttray/</guid>
+      <guid>/~asimon/authors/a.-f.-muttray/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Simon</title>
-      <link>/authors/a.-simon/</link>
+      <link>/~asimon/authors/a.-simon/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-simon/</guid>
+      <guid>/~asimon/authors/a.-simon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexis Simon</title>
-      <link>/authors/alexis-simon/</link>
+      <link>/~asimon/authors/alexis-simon/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/alexis-simon/</guid>
+      <guid>/~asimon/authors/alexis-simon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carol Reinisch</title>
-      <link>/authors/carol-reinisch/</link>
+      <link>/~asimon/authors/carol-reinisch/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/carol-reinisch/</guid>
+      <guid>/~asimon/authors/carol-reinisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. A. V. Burioli</title>
-      <link>/authors/e.-a.-v.-burioli/</link>
+      <link>/~asimon/authors/e.-a.-v.-burioli/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-a.-v.-burioli/</guid>
+      <guid>/~asimon/authors/e.-a.-v.-burioli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Oden</title>
-      <link>/authors/e.-oden/</link>
+      <link>/~asimon/authors/e.-oden/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-oden/</guid>
+      <guid>/~asimon/authors/e.-oden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E.A.V. Burioli</title>
-      <link>/authors/e.a.v.-burioli/</link>
+      <link>/~asimon/authors/e.a.v.-burioli/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.a.v.-burioli/</guid>
+      <guid>/~asimon/authors/e.a.v.-burioli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fernando T. Avilés</title>
-      <link>/authors/fernando-t.-aviles/</link>
+      <link>/~asimon/authors/fernando-t.-aviles/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/fernando-t.-aviles/</guid>
+      <guid>/~asimon/authors/fernando-t.-aviles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florencia Cremonte</title>
-      <link>/authors/florencia-cremonte/</link>
+      <link>/~asimon/authors/florencia-cremonte/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/florencia-cremonte/</guid>
+      <guid>/~asimon/authors/florencia-cremonte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Arriagada</title>
-      <link>/authors/g.-arriagada/</link>
+      <link>/~asimon/authors/g.-arriagada/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-arriagada/</guid>
+      <guid>/~asimon/authors/g.-arriagada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I. Bernard</title>
-      <link>/authors/i.-bernard/</link>
+      <link>/~asimon/authors/i.-bernard/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/i.-bernard/</guid>
+      <guid>/~asimon/authors/i.-bernard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Sherry</title>
-      <link>/authors/j.-sherry/</link>
+      <link>/~asimon/authors/j.-sherry/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-sherry/</guid>
+      <guid>/~asimon/authors/j.-sherry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Charles</title>
-      <link>/authors/m.-charles/</link>
+      <link>/~asimon/authors/m.-charles/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-charles/</guid>
+      <guid>/~asimon/authors/m.-charles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Houssin</title>
-      <link>/authors/m.-houssin/</link>
+      <link>/~asimon/authors/m.-houssin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-houssin/</guid>
+      <guid>/~asimon/authors/m.-houssin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maria Polo-Prieto</title>
-      <link>/authors/maria-polo-prieto/</link>
+      <link>/~asimon/authors/maria-polo-prieto/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-polo-prieto/</guid>
+      <guid>/~asimon/authors/maria-polo-prieto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marisa A. Yonemitsu</title>
-      <link>/authors/marisa-a.-yonemitsu/</link>
+      <link>/~asimon/authors/marisa-a.-yonemitsu/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/marisa-a.-yonemitsu/</guid>
+      <guid>/~asimon/authors/marisa-a.-yonemitsu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maurine Hammel</title>
-      <link>/authors/maurine-hammel/</link>
+      <link>/~asimon/authors/maurine-hammel/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/maurine-hammel/</guid>
+      <guid>/~asimon/authors/maurine-hammel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael J. Metzger</title>
-      <link>/authors/michael-j.-metzger/</link>
+      <link>/~asimon/authors/michael-j.-metzger/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-j.-metzger/</guid>
+      <guid>/~asimon/authors/michael-j.-metzger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Bierne</title>
-      <link>/authors/n.-bierne/</link>
+      <link>/~asimon/authors/n.-bierne/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/n.-bierne/</guid>
+      <guid>/~asimon/authors/n.-bierne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicolas Bierne</title>
-      <link>/authors/nicolas-bierne/</link>
+      <link>/~asimon/authors/nicolas-bierne/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nicolas-bierne/</guid>
+      <guid>/~asimon/authors/nicolas-bierne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicolás Merino-Véliz</title>
-      <link>/authors/nicolas-merino-veliz/</link>
+      <link>/~asimon/authors/nicolas-merino-veliz/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nicolas-merino-veliz/</guid>
+      <guid>/~asimon/authors/nicolas-merino-veliz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nuria Vásquez</title>
-      <link>/authors/nuria-vasquez/</link>
+      <link>/~asimon/authors/nuria-vasquez/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nuria-vasquez/</guid>
+      <guid>/~asimon/authors/nuria-vasquez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rachael M. Giersch</title>
-      <link>/authors/rachael-m.-giersch/</link>
+      <link>/~asimon/authors/rachael-m.-giersch/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/rachael-m.-giersch/</guid>
+      <guid>/~asimon/authors/rachael-m.-giersch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Trancart</title>
-      <link>/authors/s.-trancart/</link>
+      <link>/~asimon/authors/s.-trancart/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-trancart/</guid>
+      <guid>/~asimon/authors/s.-trancart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stephen P. Goff</title>
-      <link>/authors/stephen-p.-goff/</link>
+      <link>/~asimon/authors/stephen-p.-goff/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/stephen-p.-goff/</guid>
+      <guid>/~asimon/authors/stephen-p.-goff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Susan A. Baldwin</title>
-      <link>/authors/susan-a.-baldwin/</link>
+      <link>/~asimon/authors/susan-a.-baldwin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/susan-a.-baldwin/</guid>
+      <guid>/~asimon/authors/susan-a.-baldwin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cathy Liautard-Haag</title>
-      <link>/authors/cathy-liautard-haag/</link>
+      <link>/~asimon/authors/cathy-liautard-haag/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/cathy-liautard-haag/</guid>
+      <guid>/~asimon/authors/cathy-liautard-haag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christelle Fraïsse</title>
-      <link>/authors/christelle-fraisse/</link>
+      <link>/~asimon/authors/christelle-fraisse/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/christelle-fraisse/</guid>
+      <guid>/~asimon/authors/christelle-fraisse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christine Arbiol</title>
-      <link>/authors/christine-arbiol/</link>
+      <link>/~asimon/authors/christine-arbiol/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/christine-arbiol/</guid>
+      <guid>/~asimon/authors/christine-arbiol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Einar Eg Nielsen</title>
-      <link>/authors/einar-eg-nielsen/</link>
+      <link>/~asimon/authors/einar-eg-nielsen/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/einar-eg-nielsen/</guid>
+      <guid>/~asimon/authors/einar-eg-nielsen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frédérique Viard</title>
-      <link>/authors/frederique-viard/</link>
+      <link>/~asimon/authors/frederique-viard/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/frederique-viard/</guid>
+      <guid>/~asimon/authors/frederique-viard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Henrique Queiroga</title>
-      <link>/authors/henrique-queiroga/</link>
+      <link>/~asimon/authors/henrique-queiroga/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/henrique-queiroga/</guid>
+      <guid>/~asimon/authors/henrique-queiroga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ibon Cancio</title>
-      <link>/authors/ibon-cancio/</link>
+      <link>/~asimon/authors/ibon-cancio/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ibon-cancio/</guid>
+      <guid>/~asimon/authors/ibon-cancio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ismaël Bernard</title>
-      <link>/authors/ismael-bernard/</link>
+      <link>/~asimon/authors/ismael-bernard/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ismael-bernard/</guid>
+      <guid>/~asimon/authors/ismael-bernard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jean-Baptiste Lamy</title>
-      <link>/authors/jean-baptiste-lamy/</link>
+      <link>/~asimon/authors/jean-baptiste-lamy/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jean-baptiste-lamy/</guid>
+      <guid>/~asimon/authors/jean-baptiste-lamy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John J. Welch</title>
-      <link>/authors/john-j.-welch/</link>
+      <link>/~asimon/authors/john-j.-welch/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/john-j.-welch/</guid>
+      <guid>/~asimon/authors/john-j.-welch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joop W. P. Coolen</title>
-      <link>/authors/joop-w.-p.-coolen/</link>
+      <link>/~asimon/authors/joop-w.-p.-coolen/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/joop-w.-p.-coolen/</guid>
+      <guid>/~asimon/authors/joop-w.-p.-coolen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jérôme Couteau</title>
-      <link>/authors/jerome-couteau/</link>
+      <link>/~asimon/authors/jerome-couteau/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jerome-couteau/</guid>
+      <guid>/~asimon/authors/jerome-couteau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maria Skazina</title>
-      <link>/authors/maria-skazina/</link>
+      <link>/~asimon/authors/maria-skazina/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-skazina/</guid>
+      <guid>/~asimon/authors/maria-skazina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Petr Strelkov</title>
-      <link>/authors/petr-strelkov/</link>
+      <link>/~asimon/authors/petr-strelkov/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/petr-strelkov/</guid>
+      <guid>/~asimon/authors/petr-strelkov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rossana Sussarellu</title>
-      <link>/authors/rossana-sussarellu/</link>
+      <link>/~asimon/authors/rossana-sussarellu/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/rossana-sussarellu/</guid>
+      <guid>/~asimon/authors/rossana-sussarellu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stéphane Robert</title>
-      <link>/authors/stephane-robert/</link>
+      <link>/~asimon/authors/stephane-robert/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/stephane-robert/</guid>
+      <guid>/~asimon/authors/stephane-robert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tahani El Ayari</title>
-      <link>/authors/tahani-el-ayari/</link>
+      <link>/~asimon/authors/tahani-el-ayari/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/tahani-el-ayari/</guid>
+      <guid>/~asimon/authors/tahani-el-ayari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thierry Burgeot</title>
-      <link>/authors/thierry-burgeot/</link>
+      <link>/~asimon/authors/thierry-burgeot/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/thierry-burgeot/</guid>
+      <guid>/~asimon/authors/thierry-burgeot/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Bronwyn M. Gillanders</title>
-      <link>/authors/bronwyn-m.-gillanders/</link>
+      <link>/~asimon/authors/bronwyn-m.-gillanders/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/bronwyn-m.-gillanders/</guid>
+      <guid>/~asimon/authors/bronwyn-m.-gillanders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charlie Huveneers</title>
-      <link>/authors/charlie-huveneers/</link>
+      <link>/~asimon/authors/charlie-huveneers/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/charlie-huveneers/</guid>
+      <guid>/~asimon/authors/charlie-huveneers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Claudia Junge</title>
-      <link>/authors/claudia-junge/</link>
+      <link>/~asimon/authors/claudia-junge/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/claudia-junge/</guid>
+      <guid>/~asimon/authors/claudia-junge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clinton Duffy</title>
-      <link>/authors/clinton-duffy/</link>
+      <link>/~asimon/authors/clinton-duffy/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/clinton-duffy/</guid>
+      <guid>/~asimon/authors/clinton-duffy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corey J. A. Bradshaw</title>
-      <link>/authors/corey-j.-a.-bradshaw/</link>
+      <link>/~asimon/authors/corey-j.-a.-bradshaw/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/corey-j.-a.-bradshaw/</guid>
+      <guid>/~asimon/authors/corey-j.-a.-bradshaw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geremy Cliff</title>
-      <link>/authors/geremy-cliff/</link>
+      <link>/~asimon/authors/geremy-cliff/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/geremy-cliff/</guid>
+      <guid>/~asimon/authors/geremy-cliff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grant Johnson</title>
-      <link>/authors/grant-johnson/</link>
+      <link>/~asimon/authors/grant-johnson/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/grant-johnson/</guid>
+      <guid>/~asimon/authors/grant-johnson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matias Braccini</title>
-      <link>/authors/matias-braccini/</link>
+      <link>/~asimon/authors/matias-braccini/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/matias-braccini/</guid>
+      <guid>/~asimon/authors/matias-braccini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Drew</title>
-      <link>/authors/michael-drew/</link>
+      <link>/~asimon/authors/michael-drew/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-drew/</guid>
+      <guid>/~asimon/authors/michael-drew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul Butcher</title>
-      <link>/authors/paul-butcher/</link>
+      <link>/~asimon/authors/paul-butcher/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/paul-butcher/</guid>
+      <guid>/~asimon/authors/paul-butcher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul Rogers</title>
-      <link>/authors/paul-rogers/</link>
+      <link>/~asimon/authors/paul-rogers/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/paul-rogers/</guid>
+      <guid>/~asimon/authors/paul-rogers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rory McAuley</title>
-      <link>/authors/rory-mcauley/</link>
+      <link>/~asimon/authors/rory-mcauley/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/rory-mcauley/</guid>
+      <guid>/~asimon/authors/rory-mcauley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scott C. Cutmore</title>
-      <link>/authors/scott-c.-cutmore/</link>
+      <link>/~asimon/authors/scott-c.-cutmore/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/scott-c.-cutmore/</guid>
+      <guid>/~asimon/authors/scott-c.-cutmore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stephen C. Donnellan</title>
-      <link>/authors/stephen-c.-donnellan/</link>
+      <link>/~asimon/authors/stephen-c.-donnellan/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/stephen-c.-donnellan/</guid>
+      <guid>/~asimon/authors/stephen-c.-donnellan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vic Peddemors</title>
-      <link>/authors/vic-peddemors/</link>
+      <link>/~asimon/authors/vic-peddemors/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/vic-peddemors/</guid>
+      <guid>/~asimon/authors/vic-peddemors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maud Duranton</title>
-      <link>/authors/maud-duranton/</link>
+      <link>/~asimon/authors/maud-duranton/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/maud-duranton/</guid>
+      <guid>/~asimon/authors/maud-duranton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florentine Riquet</title>
-      <link>/authors/florentine-riquet/</link>
+      <link>/~asimon/authors/florentine-riquet/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/florentine-riquet/</guid>
+      <guid>/~asimon/authors/florentine-riquet/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/~asimon/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/~asimon/authors/admin/</guid>
+      <description>&lt;p&gt;I am an evolutionary biologist interested in the population genomics of speciation and hybridization.
+My main study system is the blue mussel (&lt;em&gt;Mytilus&lt;/em&gt; spp.) species complex.
+During my PhD, I worked on natural and anthropogenic admixture events in this complex.
+I am now starting to investigate a recently discovered transmissible cancer in &lt;em&gt;Mytilus&lt;/em&gt; species.
+My research uses both empirical and theoretical approaches.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

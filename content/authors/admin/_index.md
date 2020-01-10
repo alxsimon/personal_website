@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: short bio here
+bio: PhD in evolutionary biology
 
 interests:
 - Population genetics and genomics
@@ -52,6 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UKwVimsAAAAJ&hl=en
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-6176-5045
 - icon: github
   icon_pack: fab
   link: https://github.com/alxsimon
@@ -71,4 +74,9 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an evolutionary biologist interested in the population genomics of speciation and hybridization.
+My main study system is the blue mussel (*Mytilus* spp.) species complex.
+During my PhD, I worked on natural and anthropogenic admixture events in this complex.
+I am now starting to investigate a recently discovered transmissible cancer in *Mytilus* species.
+My research uses both empirical and theoretical approaches.
+

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frédérique Viard | Alexis Simon</title>
-    <link>/authors/frederique-viard/</link>
-      <atom:link href="/authors/frederique-viard/index.xml" rel="self" type="application/rss+xml" />
+    <link>/~asimon/authors/frederique-viard/</link>
+      <atom:link href="/~asimon/authors/frederique-viard/index.xml" rel="self" type="application/rss+xml" />
     <description>Frédérique Viard</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/~asimon/images/icon_hua9382347c3b61b6200626d622986fb32_48132_512x512_fill_lanczos_center_2.png</url>
       <title>Frédérique Viard</title>
-      <link>/authors/frederique-viard/</link>
+      <link>/~asimon/authors/frederique-viard/</link>
     </image>
     
     <item>
       <title>Replicated Anthropogenic Hybridisations Reveal Parallel Patterns of Admixture in Marine Mussels</title>
-      <link>/publication/simon-2019/</link>
+      <link>/~asimon/publication/simon-2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/simon-2019/</guid>
+      <guid>/~asimon/publication/simon-2019/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rachael M. Giersch | Alexis Simon</title>
-    <link>/authors/rachael-m.-giersch/</link>
-      <atom:link href="/authors/rachael-m.-giersch/index.xml" rel="self" type="application/rss+xml" />
+    <link>/~asimon/authors/rachael-m.-giersch/</link>
+      <atom:link href="/~asimon/authors/rachael-m.-giersch/index.xml" rel="self" type="application/rss+xml" />
     <description>Rachael M. Giersch</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/~asimon/images/icon_hua9382347c3b61b6200626d622986fb32_48132_512x512_fill_lanczos_center_2.png</url>
       <title>Rachael M. Giersch</title>
-      <link>/authors/rachael-m.-giersch/</link>
+      <link>/~asimon/authors/rachael-m.-giersch/</link>
     </image>
     
     <item>
       <title>A Single Clonal Lineage of Transmissible Cancer Identified in Two Marine Mussel Species in South America and Europe</title>
-      <link>/publication/yonemitsu-2019/</link>
+      <link>/~asimon/publication/yonemitsu-2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yonemitsu-2019/</guid>
+      <guid>/~asimon/publication/yonemitsu-2019/</guid>
       <description></description>
     </item>
     
